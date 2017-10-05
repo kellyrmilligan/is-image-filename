@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "env",
+    "stage-2",
+    "flow"
+  ],
+  "plugins": [
+    "add-module-exports"
+  ],
+  "ignore": [
+    "**/*.type.js"
+  ]
+}
