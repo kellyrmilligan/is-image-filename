@@ -32,7 +32,7 @@ isImage('src/unicorn.txt');
 ## Related
 - [`is-image`](https://www.npmjs.com/package/is-image) - Check if a filepath is an image
 - [image-extensions](https://github.com/arthurvr/image-extensions) - List of image extensions
-
+- [file-extension](https://www.npmjs.com/package/file-extension) - get the file extension
 
 ## License
 
